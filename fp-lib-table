@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "RamLib")(type "KiCad")(uri "C:/Users/Estudiante/Desktop/tri bordon 2026/RamLib")(options "")(descr ""))
+  (lib (name "tri 2026")(type "KiCad")(uri "C:/Users/Estudiante/Desktop/tri bordon 2026/tri 2026")(options "")(descr ""))
+)
